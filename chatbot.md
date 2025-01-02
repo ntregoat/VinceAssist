@@ -4,18 +4,18 @@ gestionGrosMots: true
 rechercheContenu: true
 avatar: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR-FT.png
 avatarCercle: true
-favicon: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-FAVICON.png
+favicon: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-FAVICON40.png
 footer: 'Outil construit avec ChatMD, outil libre & gratuit créé par Cédric Eyssette - Paramétrages et configuration : Adrien Magraner (Référent Numérique) & Nathalie Tregoat (ATI)'
 contenuDynamique: true
 typewriter: false
 messageParDéfaut: ["Désolé, je suis encore en train d'apprendre et n'ai pas la réponse à votre question. Contactez l'établissement pour plus d'information.", "Je n'ai pas encore appris la réponse à cette question. Peut-être qu'en contactant directement l'établissement, vous pourrez obtenir plus d'informations ?"]
 theme: bubbles
-include: ['https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/sans-profil.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Pix-Eleves.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Pix-Professeurs.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Neo-Eleve.md']
+include: ['https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/sans-profil.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Pix-Eleves.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Pix-Professeurs.md', 'https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Aide-Neo-Eleve.md' , https://github.com/ntregoat/VinceAssist/blob/main/Aide-Num-Prof.md , https://github.com/ntregoat/VinceAssist/blob/main/Aide-Num-Prof.md]
 ---
 
 # Collège Vincent Van Gogh : Besoin d'aide ?
 
-<center>![Logo-vvg](https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR.jpg)</center>
+<center>![Logo-vvg](https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR-FT.jpg)</center>
 <!-- Pas besoin d'entrée clavier ici, orientation principale du chatbot -->
 
 `@KEYBOARD = false`
@@ -119,4 +119,7 @@ Je suis ravi de pouvoir discuter avec vous.
 Pour lequel as-tu besoin d'aide ?
 
 1. [PIX](profs_pix)
+2. [Les outils numériques au collège VVG] (profs_num)
+
+
 `endif`
