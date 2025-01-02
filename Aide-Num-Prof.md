@@ -2,9 +2,10 @@
 - presentation du numérique
 
 `if @type_user==profs`
-****
+
 **Bienvenue à la présentation des outils numériques du Collège Vincent VAN GOGH !**
 
+****
 Je vais vous présenter les ressources disponibles pour enrichir vos pratiques pédagogiques.
 
 --
