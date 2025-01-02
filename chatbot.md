@@ -119,7 +119,7 @@ Je suis ravi de pouvoir discuter avec vous.
 Pour lequel as-tu besoin d'aide ?
 
 1. [PIX](profs_pix)
-2. [Les outils numériques au collège VVG] (profs_num)
+2. [Les outils numériques au collège VVG](profs_num)
 
 
 `endif`
