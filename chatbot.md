@@ -15,7 +15,7 @@ include: ['https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assi
 
 # Collège Vincent Van Gogh : Besoin d'aide ?
 
-<center>![Logo-vvg](https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR-FT.jpg)</center>
+<center>![Logo-vvg](https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR-FT.png)</center>
 <!-- Pas besoin d'entrée clavier ici, orientation principale du chatbot -->
 
 `@KEYBOARD = false`
