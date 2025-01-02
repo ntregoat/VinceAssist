@@ -4,7 +4,7 @@ gestionGrosMots: true
 rechercheContenu: true
 avatar: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-AVATAR-FT.png
 avatarCercle: true
-favicon: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-FAVICON40.png
+favicon: https://college-vincent-van-gogh.forge.apps.education.fr/chatbot_assistance_vvg/Documents/VVG-FAVICON.png
 footer: 'Outil construit avec ChatMD, outil libre & gratuit créé par Cédric Eyssette - Paramétrages et configuration : Adrien Magraner (Référent Numérique) & Nathalie Tregoat (ATI)'
 contenuDynamique: true
 typewriter: false
